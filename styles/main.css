@@ -1,0 +1,24 @@
+img {
+    height: 300px;
+    width: 200px;
+}
+footer
+{
+    text-align: center;
+    font-size: 90%;
+
+}
+.imgleft {
+    float: left;
+    
+}
+.imgright {
+    float: right;
+    
+}
+p {
+
+}
+.clearfix {
+    overflow: auto;
+}
